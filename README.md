@@ -1,0 +1,2 @@
+# WindowsKmsScript
+可以幫助你更快速地部署KMS授權的系統
